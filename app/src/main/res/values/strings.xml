@@ -1,0 +1,5 @@
+<resources>
+    <string name="app_name">ButtonNavigationIssue</string>
+    <string name="issue">You can press the button behind the navigation bar and between each button on API 33</string>
+    <string name="bug">Bug</string>
+</resources>
